@@ -16,6 +16,5 @@
         "psr-4": {
             "Shankhadev\\Bsdate\\": "src/Bsdate/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
