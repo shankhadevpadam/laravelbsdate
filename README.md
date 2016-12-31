@@ -25,4 +25,14 @@ Shankhadev\Bsdate\BsdateServiceProvider::class,
 ```php
 Bsdate::eng_to_nep(2016,12,31); //For converting AD TO BS
 Bsdate::nep_to_eng(2073,09,16); //For converting BS TO AD
+// output 
+Array
+(
+    [year] => २०७३
+    [month] => ९
+    [date] => १६
+    [day] => शनिबार
+    [nmonth] => पुष
+    [num_day] => ७
+)
 ```
