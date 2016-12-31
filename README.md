@@ -2,7 +2,7 @@
 A laravel date package which convert AD to BS and viceversa.
 
 #installation
-1) In order to install Laravel 5 Laravelbsdate, just add the following to your composer.json. Then run composer update:
+1) In order to install Laravel 5 Laravelbsdate, just add the following to your composer.json in require. Then run composer update:
 
 ```json
 "shankhadev/bsdate": "dev-master"
