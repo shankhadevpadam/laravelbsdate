@@ -16,4 +16,5 @@
             "Shankhadev\\Padam\\": "src/Bsdate/"
         }
     },
+    "minimum-stability": "dev"
 }
