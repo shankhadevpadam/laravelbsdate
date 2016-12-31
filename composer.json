@@ -17,5 +17,5 @@
             "Shankhadev\\Bsdate\\": "src/Bsdate/"
         }
     },
-    "minimum-stability": "dev-master"
+    "minimum-stability": "stable"
 }
