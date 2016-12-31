@@ -1,4 +1,4 @@
-# A laravel Nepali Date (Bikram Sambat Date Conveter & viceversa) package.
+# A laravel Nepali Date.
 A laravel date package which convert AD to BS and viceversa.
 
 #installation
