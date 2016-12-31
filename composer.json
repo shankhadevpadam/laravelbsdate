@@ -1,0 +1,12 @@
+{
+    "name": "shankhadev/bsdate",
+    "description": "A simple package that convert AD to BS and viceversa.",
+    "authors": [
+        {
+            "name": "Padam Shankhadev",
+            "email": "shankhadev123@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
