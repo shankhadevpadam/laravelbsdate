@@ -1,13 +1,14 @@
 {
     "name": "shankhadev/bsdate",
     "description": "A simple package that convert AD to BS and viceversa.",
+    "keywords": ["Nepali Date", "Bikramsambat"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Padam Shankhadev",
             "email": "shankhadev123@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
 	"php": ">=5.5.9"
     },
