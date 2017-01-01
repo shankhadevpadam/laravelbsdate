@@ -1,8 +1,8 @@
 # A laravel Nepali Date.
 
-[![Version](https://img.shields.io/packagist/v/Shankhadev/bsdate.svg)](https://packagist.org/packages/shankhadev/bsdate)
-[![License](https://poser.pugx.org/shankhadev/bsdatelicense.svg)](https://packagist.org/packages/shankhadev/bsdate)
-[![Total Downloads](https://img.shields.io/packagist/dt/shankhadev/bsdate.svg)](https://packagist.org/packages/shankhadev/bsdate)
+[![Latest Stable Version](https://poser.pugx.org/shankhadev/bsdate/v/stable)](https://packagist.org/packages/shankhadev/bsdate)
+[![License](https://poser.pugx.org/shankhadev/bsdate/license)](https://packagist.org/packages/shankhadev/bsdate)
+[![Total Downloads](https://poser.pugx.org/shankhadev/bsdate/downloads)](https://packagist.org/packages/shankhadev/bsdate)
 
 A laravel date package which convert AD to BS and viceversa.
 
