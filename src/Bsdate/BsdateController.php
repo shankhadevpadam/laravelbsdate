@@ -489,7 +489,7 @@ class BsdateController extends Controller
         }
     }
 
-    function convert_to_nepali_number($str)
+    public function convert_to_nepali_number($str)
     {
         $str = strval($str);
         $array = array(0 => '&#2406;',
