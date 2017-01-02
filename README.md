@@ -1,7 +1,7 @@
 # A laravel Nepali Date.
 A laravel date package which convert AD to BS and viceversa.
 
-#installation
+#Installation
 1) In order to install Laravel 5 Laravelbsdate, just add the following to your composer.json in require. Then run composer update:
 
 ```json
