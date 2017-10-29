@@ -1,7 +1,7 @@
 # A Laravel Nepali Date.
 
 [![Latest Stable Version](https://poser.pugx.org/shankhadev/bsdate/v/stable)](https://packagist.org/packages/shankhadev/bsdate)
-[![License](https://img.shields.io/github/license/shankhadevpadam/laravelbsdate-squared-green.svg?style=flat-square)](https://packagist.org/packages/shankhadev/bsdate)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://packagist.org/packages/shankhadev/bsdate)
 [![Total Downloads](https://img.shields.io/github/downloads/shankhadevpadam/laravelbsdate/total.svg?style=flat-square)](https://packagist.org/packages/shankhadev/bsdate)
 [![StyleCI](https://styleci.io/repos/102555089/shield?branch=master)](https://styleci.io/repos/102555089)
 
