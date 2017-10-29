@@ -1,6 +1,6 @@
 # A Laravel Nepali Date.
 
-[![Latest Version](https://img.shields.io/github/release/shankhadevpadam/laravelbsdate.svg?style=flat-square)](https://github.com/shankhadevpadam/laravelbsdate/releases/tag/v1.0.0)
+[![Latest Version](https://img.shields.io/github/release/shankhadevpadam/laravelbsdate/tag/v1.0.0.svg?style=flat-square)](https://github.com/shankhadevpadam/laravelbsdate/releases/tag/v1.0.0)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://packagist.org/packages/shankhadev/bsdate)
 [![Total Downloads](https://img.shields.io/github/downloads/shankhadevpadam/laravelbsdate/total.svg?style=flat-square)](https://packagist.org/packages/shankhadev/bsdate)
 [![StyleCI](https://styleci.io/repos/102555089/shield?branch=master)](https://styleci.io/repos/102555089)
